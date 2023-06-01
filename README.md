@@ -41,7 +41,10 @@ Medios : https://github.com/Isabelmagan/isabelmagan.github.io
 
 #### 2.2. Esquema de navegación
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![1 INFO](https://github.com/Isabelmagan/Uncovering/assets/134588275/7db83f72-8b43-47b1-a054-0798e26c1fe6)
+
+![asdsad](https://github.com/Isabelmagan/Uncovering/assets/134588275/c5d90979-7b6b-4fa4-bc94-4d414e875cdc)
+
 
 # 3. Metodología
 
