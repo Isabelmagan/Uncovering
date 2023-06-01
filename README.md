@@ -37,7 +37,9 @@ Medios : https://github.com/Isabelmagan/isabelmagan.github.io
 
 #### 2.1 Storyboard:
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![IMG_4355](https://github.com/Isabelmagan/Uncovering/assets/134588275/6d2fbba8-09f3-483f-994a-5d4db5b0d7d8)
+
+![IMG_4356](https://github.com/Isabelmagan/Uncovering/assets/134588275/0e45ab62-c075-464b-87de-879b98e8d7b2)
 
 #### 2.2. Esquema de navegación
 
