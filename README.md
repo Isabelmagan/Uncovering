@@ -43,6 +43,7 @@ Medios (donde se tiene presencia relacionada): Github
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 3. Metodología
+![Uploading dsfdsf.png…]()
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
