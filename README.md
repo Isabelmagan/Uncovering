@@ -4,7 +4,7 @@ Uncovering
 
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
-1 Datos
+# 1 Datos
 
 Titulo : Uncovering
 
@@ -31,24 +31,24 @@ Licencia Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC 
 
 Fecha : 25/05/2023
 
-Medios : Github, https://github.com/Isabelmagan
+Medios : https://github.com/Isabelmagan/isabelmagan.github.io
 
-2. Memoria del proyecto
+# 2. Memoria del proyecto
 
-2.1 Storyboard:
+#### 2.1 Storyboard:
 
 (narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
-2.2. Esquema de navegación
+#### 2.2. Esquema de navegación
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
-3. Metodología
+# 3. Metodología
 
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Etapa 1: Ideación de proyecto
+#### Etapa 1: Ideación de proyecto
 
 Investigación de campo (propuestas inspiradoras para el proyecto)
 June´s Journay- Busca objetos, inspiración para todo el juego.
@@ -63,7 +63,7 @@ Publico / audiencia
 
 Orientado a adolescentes y adultos (+12 años)
 
-Etapa 2: Desarrollo / actividades realizadas
+#### Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
@@ -76,11 +76,11 @@ Etapa 3: Problemas identificados
 
 Me gustaría que se viera bien todo el texto del juego, puesto que a veces en algunos textos no se ve la tipografía que apliqué. Si hubiera tenido más tiempo le hubiera puesto más niveles y que la música se escuche nada más comenzar el juego, pero por problemas del hippani tuve que dejarlo así.
 
-4. Conclusiones
+# 4. Conclusiones
 
 Creo que ha sido muy interesante y útil porque hemos ido aplicando en un único proyecto todos los conocimientos que íbamos aprendiendo. Para ser la primera vez que hago algo así me ha gustado mucho pero a su vez me ha resultado agobiante ya que a veces no entendía como hacer algunas cosas, arreglar errores… Pero al final pude terminarlo y estoy contenta con la ambientación y el resultado, aunque como siempre, es mejorable.
 
-5 Referencias
+# 5 Referencias
 
 **Artículos y blogs **
 
