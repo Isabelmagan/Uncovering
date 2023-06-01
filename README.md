@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 Titulo : Uncovering
 
-Web: Final (isabelmagan.github.io)
+Web: https://isabelmagan.github.io
 
 Autor: Isabel Magán Lores
 
@@ -16,9 +16,10 @@ Resumen :Este es un juego de misterio, que trata sobre la desaparición de Julia
 
 Estilo/género: Misterio.
 
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Logotipo : 
 
-(insertar imágenes a resolucion de 100px alto)
+![Logo](https://github.com/Isabelmagan/Uncovering/assets/134588275/417d8419-2af8-4745-a7ab-45f6efb0b509)
+
 
 Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
@@ -30,7 +31,7 @@ Licencia Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC 
 
 Fecha : 25/05/2023
 
-Medios (donde se tiene presencia relacionada): Github
+Medios : Github, https://github.com/Isabelmagan
 
 2. Memoria del proyecto
 
@@ -43,22 +44,25 @@ Medios (donde se tiene presencia relacionada): Github
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 3. Metodología
-![Uploading dsfdsf.png…]()
+
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 Etapa 1: Ideación de proyecto
 
 Investigación de campo (propuestas inspiradoras para el proyecto)
+June´s Journay- Busca objetos, inspiración para todo el juego.
+El cluedo, inspiración de ambientación y juego.
 
 Portfolio Leonardi Web page para idear cómo organizar el material
 Motivación de la propuesta
 
-Este proyecto es interesante porque ...
+En un inicio quería que mi proyecto fuera sobre la búsqueda de objetos y que con ellos se consiguieran pistas para resolver un caso.
 
 Publico / audiencia
 
-Orientado a
+Orientado a adolescentes y adultos (+12 años)
+
 Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
@@ -70,11 +74,11 @@ Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Problemas identificados
 
-(que consideras que no funciona correctamente y por qué )
+Me gustaría que se viera bien todo el texto del juego, puesto que a veces en algunos textos no se ve la tipografía que apliqué. Si hubiera tenido más tiempo le hubiera puesto más niveles y que la música se escuche nada más comenzar el juego, pero por problemas del hippani tuve que dejarlo así.
 
 4. Conclusiones
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Creo que ha sido muy interesante y útil porque hemos ido aplicando en un único proyecto todos los conocimientos que íbamos aprendiendo. Para ser la primera vez que hago algo así me ha gustado mucho pero a su vez me ha resultado agobiante ya que a veces no entendía como hacer algunas cosas, arreglar errores… Pero al final pude terminarlo y estoy contenta con la ambientación y el resultado, aunque como siempre, es mejorable.
 
 5 Referencias
 
@@ -83,13 +87,18 @@ Etapa 3: Problemas identificados
 Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 Recursos y materiales audiovisuales:
 
-Musica:
-Imágenes:
-Tipografía
-Herramientas utilizadas
+Musica: inspiring-cinematic-ambient-116199
+
+Imágenes: Isabel Magán Lores con los sims 4, imágenes del videojuego Torn, Interior practice- detective desk del artista digital Ruven Lane, Detective´s Office de Rotann Colyn, pasillo de miedo modelo 3d por AhearnART3D, Astor alexander las imagenes de los protagonistas y Muhammed Attia modelo 3D prison cell max 3ds blend obj fbx.
+
+Tipografía: IM FELL English SC
+
+Herramientas utilizadas:
 
 Hippani Animator 5.1
-(imagen de la licencia, copiar y pegar aquí la correcta)
+Photoshop CS6
+Davinci Resolve
+Audacity
 
 https://creativecommons.org/licenses/?lang=es
 
