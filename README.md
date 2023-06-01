@@ -50,16 +50,16 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 #### Etapa 1: Ideación de proyecto
 
-Investigación de campo (propuestas inspiradoras para el proyecto)
+##### Investigación de campo (propuestas inspiradoras para el proyecto)
 June´s Journay- Busca objetos, inspiración para todo el juego.
 El cluedo, inspiración de ambientación y juego.
 
 Portfolio Leonardi Web page para idear cómo organizar el material
-Motivación de la propuesta
+#### Motivación de la propuesta
 
 En un inicio quería que mi proyecto fuera sobre la búsqueda de objetos y que con ellos se consiguieran pistas para resolver un caso.
 
-Publico / audiencia
+##### Publico / audiencia
 
 Orientado a adolescentes y adultos (+12 años)
 
@@ -67,12 +67,18 @@ Orientado a adolescentes y adultos (+12 años)
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-Juego.
-Video
-Instrucciones y ayuda al usuario
-Menús y elementos de navegación (botones)
-etc.
-Etapa 3: Problemas identificados
+Juego: Es un juego sencillo que comienza con una introducción que plantea el caso a resolver. Una vez hecha la introducción pasamos a un menú que nos presenta la galería, botón de jugar y el botón del trailer. Tanto en la introducción como en el menú encontramos los botones de “skip” y de sonido. Dicho esto una vez que le damos al play encontramos otro menú, este sería un submenú el cual hace que de forma libre seleccionando las habitaciones consigamos pistas, estas nos llevan a su escena correspondiente que nos muestra la habitación con objetos ocultos que debemos de encontrar, y estos nos darán pistas. Una vez que hayamos encontrado todas las pistas encontraremos el botón de “The Quiz” este nos llevará al juego de preguntas que deberemos de resolver con toda la información que tenemos reunida. Para concluir con una narrativa que explica dónde se encuentra el asesino y el por qué lo hizo. 
+
+Video: En este trabajo solo realicé un vídeo. Este proviene de youtube el cual me descargué con un convertidor de video a mp4. Posteriormente lo edité en DaVinci Resolve. Se puede encontrar en la galería dando un plano general de donde se halla la casa.
+
+Sonido: En cuanto al sonido, usé música de ambientación para todo el juego, y luego sonidos para todos los botones al hacer “clic” y otros sonidos para transmitir el acierto o error al hacer “clic” en determinadas opciones o botones.
+
+Instrucciones y ayuda al usuario: El juego es lineal y se muestran flechas que orientan al jugador para continuar con el juego. 
+
+Menús y elementos de navegación (botones): Los botones del juego son muy sencillos he intuitivos. Podemos encontrar diversos botones: Botones para cambiar de escena, para "skipear", botones que dan psitas que en mi caso son botones que están escondidos por una imagen de la escenografía, botones para acertar o fallar en el quiz, botón conmutador en el botón de sonido On/Off, y muchos más.
+
+
+#### Etapa 3: Problemas identificados
 
 Me gustaría que se viera bien todo el texto del juego, puesto que a veces en algunos textos no se ve la tipografía que apliqué. Si hubiera tenido más tiempo le hubiera puesto más niveles y que la música se escuche nada más comenzar el juego, pero por problemas del hippani tuve que dejarlo así.
 
